@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "181448828150",
+    "project_id": "wisdomapp-e384f",
+    "storage_bucket": "wisdomapp-e384f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181448828150:android:c5deaef5e461c1de1d78d7",
+        "android_client_info": {
+          "package_name": "com.wisdomapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrkrSsY-JbR7eWfeSkfMRwEWl9iMI6SLI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
